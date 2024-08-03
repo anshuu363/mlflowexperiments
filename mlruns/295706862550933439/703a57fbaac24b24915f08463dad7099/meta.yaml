@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/295706862550933439/703a57fbaac24b24915f08463dad7099/artifacts
+end_time: 1722682910808
+entry_point_name: ''
+experiment_id: '295706862550933439'
+lifecycle_stage: active
+run_id: 703a57fbaac24b24915f08463dad7099
+run_name: skillful-lamb-243
+run_uuid: 703a57fbaac24b24915f08463dad7099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722682909140
+status: 3
+tags: []
+user_id: anshumanjoshi
